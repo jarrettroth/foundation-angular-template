@@ -13,6 +13,14 @@ To use this template, your computer needs:
 
 - [NodeJS](https://nodejs.org/en/) (0.12 or greater)
 - [Git](https://git-scm.com/)
+- [Gulp-Cli](https://github.com/gulpjs/gulp-cli) (installed globally)
+```bash
+npm install -g gulp-cli
+```
+- [Gulp](http://gulpjs.com/)(installed globally)
+```bash
+npm install -g gulp
+```
 
 ### Using the Template
 
